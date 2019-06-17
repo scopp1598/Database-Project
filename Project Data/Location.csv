@@ -1,0 +1,362 @@
+LocationID,Genre,Section,RowNumber,Shelf
+1,Fiction,1,1,7
+2,Fiction,1,2,1
+3,Fiction,1,3,1
+4,Fiction,1,4,5
+5,Fiction,1,5,5
+6,Fiction,1,6,1
+7,Fiction,1,7,9
+8,Fiction,1,8,8
+9,Fiction,1,9,9
+10,Fiction,1,10,8
+11,Fiction,1,11,7
+12,Fiction,1,12,10
+13,Fiction,1,13,3
+14,Fiction,1,14,6
+15,Fiction,1,15,6
+16,Nonfiction,2,1,6
+17,Nonfiction,2,2,1
+18,Nonfiction,2,3,10
+19,Nonfiction,2,4,2
+20,Nonfiction,2,5,6
+21,Nonfiction,2,6,9
+22,Nonfiction,2,7,4
+23,Nonfiction,2,8,4
+24,Nonfiction,2,9,2
+25,Nonfiction,2,10,1
+26,Nonfiction,2,11,9
+27,Nonfiction,2,12,7
+28,Nonfiction,2,13,8
+29,Nonfiction,2,14,6
+30,Nonfiction,2,15,9
+31,Indie Next,3,1,7
+32,Indie Next,3,2,10
+33,Indie Next,3,3,4
+34,Indie Next,3,4,7
+35,Indie Next,3,5,9
+36,Indie Next,3,6,5
+37,Indie Next,3,7,10
+38,Indie Next,3,8,7
+39,Indie Next,3,9,2
+40,Indie Next,3,10,3
+41,Indie Next,3,11,7
+42,Indie Next,3,12,6
+43,Indie Next,3,13,5
+44,Indie Next,3,14,3
+45,Mystery,4,15,5
+46,Mystery,4,1,7
+47,Mystery,4,2,5
+48,Mystery,4,3,5
+49,Mystery,4,4,9
+50,Mystery,4,5,8
+51,Mystery,4,6,2
+52,Mystery,4,7,3
+53,Mystery,4,8,5
+54,Mystery,4,9,6
+55,Mystery,4,10,1
+56,Mystery,4,11,10
+57,Mystery,4,12,5
+58,Science Fiction and Fantasy,5,13,5
+59,Science Fiction and Fantasy,5,14,10
+60,Science Fiction and Fantasy,5,15,2
+61,Science Fiction and Fantasy,5,1,6
+62,Science Fiction and Fantasy,5,2,5
+63,Science Fiction and Fantasy,5,3,7
+64,Science Fiction and Fantasy,5,4,6
+65,Science Fiction and Fantasy,5,5,8
+66,Biography,6,6,10
+67,Biography,6,7,2
+68,Biography,6,8,9
+69,Biography,6,9,10
+70,Biography,6,10,9
+71,Biography,6,11,8
+72,Biography,6,12,1
+73,Biography,6,13,7
+74,Biography,6,14,8
+75,Biography,6,15,2
+76,Biography,6,1,2
+77,Biography,6,2,9
+78,Biography,6,3,4
+79,Biography,6,4,8
+80,Biography,6,5,7
+81,Biography,6,6,1
+82,Biography,6,7,6
+83,Biography,6,8,6
+84,Biography,6,9,3
+85,Biography,6,10,7
+86,Biography,6,11,5
+87,Biography,6,12,10
+88,Biography,6,13,6
+89,Biography,6,14,8
+90,Biography,6,15,5
+91,Biography,6,1,10
+92,Business,7,2,6
+93,Business,7,3,1
+94,Business,7,4,4
+95,Business,7,5,3
+96,Business,7,6,8
+97,Business,7,7,1
+98,Business,7,8,4
+99,Business,7,9,7
+100,Food,8,10,9
+101,Food,8,11,10
+102,Food,8,12,5
+103,Food,8,13,3
+104,Food,8,14,9
+105,Food,8,15,4
+106,Food,8,1,10
+107,Food,8,2,1
+108,Food,8,3,9
+109,Food,8,4,7
+110,Food,8,5,4
+111,Food,8,6,10
+112,Lifestyle,9,7,4
+113,Lifestyle,9,8,6
+114,Lifestyle,9,9,9
+115,Lifestyle,9,10,9
+116,Lifestyle,9,11,10
+117,Lifestyle,9,12,8
+118,Lifestyle,9,13,7
+119,Lifestyle,9,14,1
+120,Lifestyle,9,15,4
+121,Lifestyle,9,1,1
+122,Lifestyle,9,2,1
+123,Lifestyle,9,3,8
+124,Lifestyle,9,4,8
+125,Lifestyle,9,5,6
+126,Lifestyle,9,6,7
+127,Lifestyle,9,7,8
+128,Lifestyle,9,8,2
+129,Lifestyle,9,9,7
+130,Lifestyle,9,10,8
+131,Lifestyle,9,11,6
+132,Lifestyle,9,12,3
+133,Lifestyle,9,13,2
+134,Past and Present,10,14,6
+135,Past and Present,10,15,8
+136,Past and Present,10,1,7
+137,Past and Present,10,2,10
+138,Past and Present,10,3,8
+139,Past and Present,10,4,1
+140,Past and Present,10,5,10
+141,Past and Present,10,6,5
+142,Past and Present,10,7,4
+143,Past and Present,10,8,10
+144,Past and Present,10,9,6
+145,Past and Present,10,10,6
+146,Past and Present,10,11,6
+147,Past and Present,10,12,9
+148,Past and Present,10,13,4
+149,Past and Present,10,14,1
+150,Past and Present,10,15,9
+151,Past and Present,10,1,8
+152,Past and Present,10,2,2
+153,Past and Present,10,3,4
+154,Past and Present,10,4,4
+155,Past and Present,10,5,1
+156,Past and Present,10,6,10
+157,Past and Present,10,7,9
+158,Past and Present,10,8,7
+159,Past and Present,10,9,8
+160,Past and Present,10,10,2
+161,Past and Present,10,11,4
+162,Past and Present,10,12,1
+163,Past and Present,10,13,6
+164,Past and Present,10,14,1
+165,Past and Present,10,15,2
+166,Past and Present,10,1,3
+167,Past and Present,10,2,9
+168,Past and Present,10,3,10
+169,Travel,11,4,5
+170,Travel,11,5,9
+171,Travel,11,6,1
+172,Travel,11,7,9
+173,Graphic Novels,12,8,6
+174,Graphic Novels,12,9,6
+175,Graphic Novels,12,10,4
+176,Graphic Novels,12,11,7
+177,Graphic Novels,12,12,3
+178,Graphic Novels,12,13,6
+179,Graphic Novels,12,14,2
+180,Graphic Novels,12,15,7
+181,Graphic Novels,12,1,3
+182,Graphic Novels,12,2,8
+183,Graphic Novels,12,3,6
+184,Graphic Novels,12,4,1
+185,Teen,13,5,1
+186,Teen,13,6,4
+187,Teen,13,7,6
+188,Teen,13,8,2
+189,Teen,13,9,6
+190,Teen,13,10,4
+191,Teen,13,11,9
+192,Teen,13,12,7
+193,Teen,13,13,5
+194,Teen,13,14,7
+195,Teen,13,15,4
+196,Children's Chapter Books,14,1,6
+197,Children's Chapter Books,14,2,2
+198,Children's Chapter Books,14,3,10
+199,Children's Chapter Books,14,4,10
+200,Children's Chapter Books,14,5,3
+201,Children's Chapter Books,14,6,7
+202,DVD,15,7,4
+203,DVD,15,8,1
+204,DVD,15,9,4
+205,DVD,15,10,8
+206,DVD,15,11,4
+207,DVD,15,12,9
+208,DVD,15,13,1
+209,DVD,15,14,4
+210,DVD,15,15,8
+211,DVD,15,1,5
+212,DVD,15,2,2
+213,DVD,15,3,10
+214,DVD,15,4,8
+215,DVD,15,5,5
+216,DVD,15,6,1
+217,DVD,15,7,4
+218,DVD,15,8,10
+219,DVD,15,9,4
+220,DVD,15,10,1
+221,DVD,15,11,1
+222,DVD,15,12,4
+223,DVD,15,13,7
+224,DVD,15,14,9
+225,DVD,15,15,1
+226,DVD,15,1,9
+227,DVD,15,2,5
+228,DVD,15,3,2
+229,DVD,15,4,4
+230,DVD,15,5,5
+231,DVD,15,6,5
+232,DVD,15,7,2
+233,DVD,15,8,6
+234,DVD,15,9,7
+235,DVD,15,10,4
+236,DVD,15,11,9
+237,DVD,15,12,9
+238,DVD,15,13,2
+239,DVD,15,14,3
+240,DVD,15,15,6
+241,DVD,15,1,9
+242,DVD,15,2,4
+243,DVD,15,3,8
+244,DVD,15,4,6
+245,DVD,15,5,4
+246,DVD,15,6,7
+247,DVD,15,7,4
+248,DVD,15,8,5
+249,DVD,15,9,10
+250,DVD,15,10,5
+251,DVD,15,11,1
+252,DVD,15,12,7
+253,DVD,15,13,1
+254,DVD,15,14,4
+255,DVD,15,15,4
+256,DVD,15,1,1
+257,DVD,15,2,10
+258,DVD,15,3,7
+259,DVD,15,4,4
+260,DVD,15,5,5
+261,DVD,15,6,3
+262,DVD,15,7,6
+263,DVD,15,8,7
+264,DVD,15,9,1
+265,DVD,15,10,3
+266,DVD,15,11,3
+267,DVD,15,12,9
+268,DVD,15,13,4
+269,DVD,15,14,2
+270,DVD,15,15,9
+271,DVD,15,1,3
+272,DVD,15,2,10
+273,DVD,15,3,3
+274,DVD,15,4,10
+275,DVD,15,5,7
+276,DVD,15,6,4
+277,DVD,15,7,4
+278,DVD,15,8,5
+279,DVD,15,9,10
+280,DVD,15,10,2
+281,DVD,15,11,6
+282,DVD,15,12,1
+283,DVD,15,13,5
+284,DVD,15,14,8
+285,DVD,15,15,2
+286,DVD,15,1,2
+287,DVD,15,2,6
+288,DVD,15,3,10
+289,DVD,15,4,10
+290,DVD,15,5,6
+291,DVD,15,6,5
+292,DVD,15,7,1
+293,DVD,15,8,10
+294,DVD,15,9,6
+295,DVD,15,10,3
+296,DVD,15,11,4
+297,DVD,15,12,2
+298,DVD,15,13,5
+299,DVD,15,14,1
+300,DVD,15,15,7
+301,DVD,15,1,9
+302,DVD,15,2,2
+303,DVD,15,3,5
+304,DVD,15,4,9
+305,DVD,15,5,1
+306,DVD,15,6,10
+307,DVD,15,7,3
+308,DVD,15,8,2
+309,DVD,15,9,2
+310,DVD,15,10,8
+311,DVD,15,11,6
+312,DVD,15,12,3
+313,DVD,15,13,10
+314,DVD,15,14,5
+315,DVD,15,15,3
+316,DVD,15,1,9
+317,DVD,15,2,8
+318,DVD,15,3,6
+319,DVD,15,4,5
+320,DVD,15,5,4
+321,DVD,15,6,3
+322,DVD,15,7,6
+323,DVD,15,8,2
+324,DVD,15,9,2
+325,DVD,15,10,3
+326,DVD,15,11,10
+327,DVD,15,12,8
+328,DVD,15,13,3
+329,DVD,15,14,1
+330,DVD,15,15,10
+331,DVD,15,1,1
+332,DVD,15,2,10
+333,DVD,15,3,8
+334,DVD,15,4,10
+335,DVD,15,5,6
+336,DVD,15,6,6
+337,DVD,15,7,5
+338,DVD,15,8,4
+339,DVD,15,9,5
+340,DVD,15,10,1
+341,DVD,15,11,6
+342,DVD,15,12,2
+343,DVD,15,13,9
+344,DVD,15,14,4
+345,DVD,15,15,6
+346,DVD,15,1,3
+347,DVD,15,2,7
+348,DVD,15,3,1
+349,DVD,15,4,4
+350,DVD,15,5,6
+351,DVD,15,6,6
+352,DVD,15,7,1
+353,DVD,15,8,6
+354,DVD,15,9,5
+355,DVD,15,10,9
+356,DVD,15,11,9
+357,DVD,15,12,1
+358,DVD,15,13,6
+359,DVD,15,14,10
+360,DVD,15,15,9
+361,DVD,15,1,4

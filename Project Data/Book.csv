@@ -1,0 +1,202 @@
+BookID,Title,AuthorID,NumOfCopies,BookCost,LocationID
+1,Night School,1,15,25.17,1
+2,The Whistler,2,23,30.00,2
+3,Commonwealth,3,5,13.72,3
+4,The Wrong Side of Goodbye,4,5,5.42,4
+5,Small Great Things,5,10,14.02,5
+6,The Underground Railroad,6,25,12.79,6
+7,All The Light We Cannot See,7,25,28.71,7
+8,A Gentleman in Moscow,8,3,17.90,8
+9,The Woman in Cabin 10,9,3,13.04,9
+10,Today Will Be Different,10,14,14.62,10
+11,The Trespasser,11,11,29.43,11
+12,Two by Two,12,6,8.38,12
+13,Faithful,13,15,8.85,13
+14,The Mothers,14,18,22.45,14
+15,Order to Kill,15,1,26.31,15
+16,Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,16,12,16.74,16
+17,Born to Run,17,8,17.78,17
+18,"The Hidden Life of Trees: What they feel, how they communicate -- discoveries from a secret world",18,2,30.50,18
+19,Upstream: Selected Essays,19,23,30.08,19
+20,Killing the Rising Sun: How America Vanquished World War II Japan,20,8,13.07,20
+21,Between the World and Me,21,4,8.47,21
+22,Cooking for Jeffrey: A Barefoot Contessa Cookbook,22,10,11.59,22
+23,The Girl with the Lower Back Tatttoo,23,14,16.66,23
+24,Appetites: A Cookbook,24,25,10.64,24
+25,When Breath Becomes Air,25,18,17.19,25
+26,The Magnolia Story,26,9,15.53,26
+27,Atlas Obscura: An Explorer's Guide to the World's Hidden Wonders,27,15,7.41,27
+28,Strangers in their Own Land: Anger and Mourning on the American Right,28,25,3.94,28
+29,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,29,10,1.48,29
+30,A Life Well Player: My Stories,30,16,1.92,30
+31,The Mothers,31,24,10.38,31
+32,News of the World,32,20,21.61,32
+33,"Trainwreck: The Women We Love to Hate, Mock, and Fear… and Why",33,17,29.80,33
+34,Reputations,34,13,19.53,34
+35,The Other Einstein,35,14,11.38,35
+36,"Truevine: Two Brothers, a Kidnapping, and a Mother's Quest: A True Story of the Jim Crow South",36,11,8.83,36
+37,Mercury,37,22,18.85,37
+38,All That Man Is,38,12,14.57,38
+39,The Wangs vs. the World,39,3,5.81,39
+40,Cruel Beautiful World,40,13,5.20,40
+41,The Wonder,41,2,30.36,41
+42,The Kept Woman,42,20,24.92,42
+43,"Hero of the Empire: The Boer War, a Daring Escape, and the Making of Winston Churchill",43,23,18.77,43
+44,"Irena's Children: The Extraordinary Story of the Woman Who Saved 2,500 Children from the Warsaw Ghetto",44,20,14.99,44
+45,The Inheritance,45,13,1.31,45
+46,The Chocolate Bunny Brouhaha,46,13,20.99,46
+47,Manitou Canyon,47,7,16.17,47
+48,Pocketbooks and Pistols,48,7,12.18,48
+49,The Mistletoe Murder: And Other Stories,49,22,24.28,49
+50,Christmas Caramel Murder,50,21,10.67,50
+51,Hell Bay,51,17,13.46,51
+52,The Twelve Dogs of Christmas,52,18,19.27,52
+53,The Sudden Arrival of Violence,53,4,7.35,53
+54,A Christmas Message,54,14,29.71,54
+55,The Big Book of Jack the Ripper,55,21,25.75,55
+56,No Witness But the Moon,56,20,9.92,56
+57,Fields Where They Lay,57,12,21.45,57
+58,Everfair ,58,20,28.19,58
+59,Wake of Vultures ,59,20,16.90,59
+60,Closer to the Chest ,60,14,24.60,60
+61,Robert Kirkman's the Walking Dead: Search and Destroy ,61,17,5.84,61
+62,Ghost Talkers ,62,25,7.25,62
+63,CrossTalk ,63,21,15.56,63
+64,The Sound of Seas ,64,11,12.72,64
+65,Navigators of Dune ,65,2,24.05,65
+66, By Women Possessed: A Life of Eugene O'Neill ,66,7,26.29,66
+67,Charlemagne ,67,8,14.36,67
+68,Where Memory Leads: My Life ,68,25,1.64,68
+69,Frantumaglia: A Writer's Journey ,69,17,30.91,69
+70,Wild and Precious Life ,70,17,24.61,70
+71,Showboat: The Life of Kobe Bryant ,71,25,13.91,71
+72,"Eleanor Roosevelt: The War Years and After, 1939-1962 ",72,1,13.94,72
+73,Dying to Wake Up: A Doctor's Voyage Into the Afterlife and the Wisdom He Brought Back ,73,1,6.04,73
+74,Not Dead Yet: The Memoir ,74,6,7.25,74
+75,My Own Words ,75,23,9.98,75
+76,Balls: It Takes Some to Get Some ,76,21,21.75,76
+77,"The Tao of Bill Murray: Real-Life Stories of Joy, Enlightenment, and Party Crashing ",77,11,24.68,77
+78,"When Paris Sizzled: The 1920s Paris of Hemingway, Chanel, Cocteau, Cole Porter, Josephine Baker, and Their Friends ",78,12,11.91,78
+79,Tippi: A Memoir ,79,14,23.06,79
+80,They're Playing Our Song: A Memoir ,80,15,22.09,80
+81,"Filthy Rich: A Powerful Billionaire, the Sex Scandal That Undid Him, and All the Justice That Money Can Buy: The Shocking True Stor ",81,1,30.71,81
+82,The Speed of Sound: Breaking the Barriers Between Music and Technology: A Memoir ,82,13,16.87,82
+83,The Nine of Us: Growing Up Kennedy ,83,15,12.18,83
+84,The Pope of Physics: Enrico Fermi and the Birth of the Atomic Age ,84,1,8.45,84
+85,Eyes on the Street: The Life of Jane Jacobs ,85,13,18.19,85
+86,The Making of Donald Trump ,86,15,20.14,86
+87,Homeward Bound: The Life of Paul Simon ,87,1,19.77,87
+88,Mary Astor's Purple Diary: The Great American Sex Scandal of 1936 ,88,16,19.34,88
+89,Eleanor and Hick: The Love Affair That Shaped a First Lady ,89,1,26.11,89
+90,Darling Days: A Memoir ,90,4,27.22,90
+91,American Ulysses: A Life of Ulysses S. Grant ,91,6,18.03,91
+92,The Social Organism: A Radical Understanding of Social Media to Transform Your Business and Life ,92,19,15.48,92
+93,"The Big Thing: How to Complete Your Creative Project Even If You're a Lazy, Self-Doubting Procrastinator Like Me ",93,15,24.08,93
+94,Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley ,94,15,1.37,94
+95,Knock 'em Dead: The Ultimate Job Search Guide ,95,18,4.94,95
+96,"First, Break All the Rules: What the World's Greatest Managers Do Differently ",96,12,6.20,96
+97,Engage with Honor: Building a Culture of Courageous Accountability ,97,12,12.25,97
+98,"Love Your Life, Not Theirs: 7 Money Habits for Living the Life You Want ",98,22,11.07,98
+99,The Respectful Leader: Seven Ways to Influence Without Intimidation ,99,24,29.66,99
+100,Appetites: A Cookbook ,100,3,28.09,100
+101,"Guy Fieri Family Food: 125 Real-Deal Recipes--Kitchen Tested, Home Approved ",101,9,1.46,101
+102,"Mozza at Home: More Than 150 Crowd-Pleasing Recipes for Relaxed, Family-Style Entertaining ",102,17,30.20,102
+103,Lucky Peach Presents Power Vegetables!: Turbocharged Recipes for Vegetables with Guts,103,22,5.61,103
+104,Thug Kitchen 101: Fast as F*ck ,104,9,26.24,104
+105,Cooking for Jeffrey: A Barefoot Contessa Cookbook ,105,18,25.80,105
+106,The Weeknight Dinner Cookbook: Simple Family-Friendly Recipes for Everyday Home Cooking ,106,23,28.75,106
+107,"Art of the Pie: A Practical Guide to Homemade Crusts, Fillings, and Life ",107,13,23.89,107
+108,The 22-Day Revolution Cookbook: The Ultimate Resource for Unleashing the Life-Changing Health Benefits of a Plant-Based Diet ,108,16,10.64,108
+109,The Magic of Gingerbread: 16 Beautiful Projects to Make and Eat ,109,17,17.64,109
+110,Inspiralize Everything: An Apples-To-Zucchini Encyclopedia of Spiralizing ,110,16,14.21,110
+111,How to Bake Everything: Simple Recipes for the Best Baking ,111,5,19.58,111
+112,The Bestseller Code: Anatomy of the Blockbuster Novel ,112,21,15.09,112
+113,A New America: How Music Reshaped the Culture and Future of a Nation and Redefined My Life ,113,19,17.05,113
+114,To Pixar and Beyond: My Unlikely Journey with Steve Jobs to Make Entertainment History ,114,7,29.08,114
+115,A Thousand Cuts: The Bizarre Underground World of Collectors and Dealers Who Saved the Movies ,115,24,5.59,115
+116,The Voices of Hockey: Broadcasters Reflect on the Fastest Game on Earth ,116,3,10.43,116
+117,Future Sex: A New Kind of Free Love ,117,23,2.33,117
+118,Losing Isn't Everything: The Untold Stories and Hidden Lessons Behind the Toughest Losses in Sports History ,118,5,19.83,118
+119,Messy: The Power of Disorder to Transform Our Lives ,119,23,18.08,119
+120,Television: A Biography ,120,13,23.89,120
+121,Between Two Worlds: Lessons from the Other Side ,121,6,19.23,121
+122,Of Arms and Artists: The American Revolution Through Painters' Eyes ,122,14,23.05,122
+123,"Strong Is the New Beautiful: Embrace Your Natural Beauty, Eat Clean, and Harness Your Power ",123,1,15.17,123
+124,Let Me Tell You about Jasper . . .: How My Best Friend Became America's Dog ,124,18,16.96,124
+125,Love for Sale: Pop Music in America ,125,14,4.46,125
+126,"The Boys of Dunbar: A Story of Love, Hope, and Basketball ",126,1,8.51,126
+127,Enslaved by Ducks ,127,14,3.39,127
+128,When in French: Love in a Second Language ,128,16,19.71,128
+129,The Mommy Shorts Guide to Remarkably Average Parenting ,129,1,5.03,129
+130,Play All: A Bingewatcher's Notebook ,130,11,26.87,130
+131,The Shepherd's View: Modern Photographs from an Ancient Landscape ,131,21,20.42,131
+132,The Power of Off: The Mindful Way to Stay Sane in a Virtual World ,132,17,30.45,132
+133,"Designing Your Life: How to Build a Well-Lived, Joyful Life ",133,14,29.11,133
+134,The Electrifying Fall of Rainbow City: Spectacle and Assassination at the 1901 World's Fair ,134,22,27.00,134
+135,Vietnam: A New History ,135,7,30.45,135
+136,Clean House: Exposing Our Government's Secrets and Lies ,136,17,3.66,136
+137,"Fields of Battle: Pearl Harbor, the Rose Bowl, and the Boys Who Went to War ",137,2,10.48,137
+138,Violent Borders: Refugees and the Right to Move ,138,18,3.98,138
+139,"American Treasures: The Secret Efforts to Save the Declaration of Independence, the Constitution and the Gettysburg Address ",139,6,6.08,139
+140,Pearl Harbor: From Infamy to Greatness ,140,24,27.17,140
+141,"American Revolutions: A Continental History, 1750-1804 ",141,18,28.02,141
+142,City of Dreams: The 400-Year Epic History of Immigrant New York ,142,23,17.91,142
+143,"Les Parisiennes: How the Women of Paris Lived, Loved, and Died Under Nazi Occupation ",143,10,10.26,143
+144,Northmen: The Viking Saga AD 793-1241 ,144,5,15.03,144
+145,The General vs. the President: MacArthur and Truman at the Brink of Nuclear War ,145,19,14.00,145
+146,Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race ,146,23,23.37,146
+147,The Perfect Horse: The Daring U.S. Mission to Rescue the Priceless Stallions Kidnapped by the Nazis ,147,10,22.50,147
+148,"Waging War: The Clash Between Presidents and Congress, 1776 to ISIS ",148,5,18.79,148
+149,Killing the Rising Sun: How America Vanquished World War II Japan ,149,19,30.25,149
+150,"Hero of the Empire: The Boer War, a Daring Escape, and the Making of Winston Churchill ",150,23,19.77,150
+151,Scorched Earth: Restoring the Country After Obama ,151,15,4.21,151
+152,Another Day in the Death of America: A Chronicle of Ten Short Lives ,152,3,30.59,152
+153,"Rogue Heroes: The History of the SAS, Britain's Secret Special Forces Unit That Sabotaged the Nazis and Changed the Nature of War ",153,18,20.84,153
+154,We Gon' Be Alright: Notes on Race and Resegregation ,154,17,28.32,154
+155,The Fix: How Nations Survive and Thrive in a World in Decline ,155,24,20.64,155
+156,The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World ,156,14,30.58,156
+157,The Science of Why: Answers to Questions about the World Around Us ,157,5,25.74,157
+158,The Cyber Effect: A Pioneering Cyberpsychologist Explains How Human Behavior Changes Online ,158,2,3.52,158
+159,"A Plague on All Our Houses: Medical Intrigue, Hollywood, and the Discovery of AIDS",159,4,28.59,159
+160,"Patient H.M.: A Story of Memory, Madness, and Family Secrets ",160,9,24.23,160
+161,I Contain Multitudes: The Microbes Within Us and a Grander View of Life ,161,25,4.64,161
+162,Now: The Physics of Time ,162,3,1.36,162
+163,Body: A Graphic Guide to Us ,163,7,19.85,163
+164,Science and the City: The Mechanics Behind the Metropolis ,164,4,4.13,164
+165,Time Travel: A History ,165,16,1.04,165
+166,New Scientist: The Origin of (Almost) Everything ,166,7,7.18,166
+167,Welcome to the Universe: An Astrophysical Tour ,167,18,30.59,167
+168,"Modified: GMOs and the Threat to Our Food, Our Land, Our Future ",168,22,8.31,168
+169,A Passion for Paris: Romanticism and Romance in the City of Light ,169,16,4.68,169
+170,Berlin: Portrait of a City Through the Centuries,170,14,28.66,170
+171,AMC's Best Day Hikes in the Berkshires: Four-Season Guide to 50 of the Best Trails in Western Massachusetts ,171,9,12.24,171
+172,Best Bike Rides Cape Cod and the Islands: The Greatest Recreational Rides in the Area ,172,8,6.12,172
+173,The Twilight Children ,173,17,10.49,173
+174,V for Vendetta ,174,16,14.41,174
+175,Graveyard Quest ,175,7,4.32,175
+176,Civil War: Black Panther ,176,2,19.11,176
+177,"Wonder Woman: Earth One, Volume 1 ",177,12,14.42,177
+178,"The Fade Out, Volume 2 ",178,21,24.32,178
+179,Black Panther: Who Is the Black Panther,179,18,10.36,179
+180,"The Walking Dead Compendium, Volume 3 ",180,20,20.45,180
+181,Stephen King's Dark Tower: The Long Road Home,181,16,2.39,181
+182,Sexcastle,182,7,19.69,182
+183,"Octopus Pie, Volume 1 ",183,8,21.92,183
+184,Displacement ,184,6,27.20,184
+185,Vassa in the Night ,185,7,17.84,185
+186,"Waterfire Saga, Book One Deep Blue ",186,9,7.07,186
+187,Frost Like Night ,187,8,7.07,187
+188,Been Here All Along,188,14,6.44,188
+189,It's All Fun and Games,189,9,4.08,189
+190,Wake the Hollow ,190,10,25.19,190
+191,"The Fever Code (Maze Runner, Book Five; Prequel) ",191,2,30.59,191
+192,A Torch Against the Night ,192,4,22.94,192
+193,Frost Like Night ,193,10,13.92,193
+194,Crooked Kingdom: A Sequel to Six of Crows ,194,20,17.13,194
+195,The Midnight Star ,195,1,21.55,195
+196,"Magnus Chase and the Gods of Asgard, Book 2: The Hammer of Thor ",196,6,16.27,196
+197,The Secret Keepers,197,21,10.31,197
+198,Ashes ,198,24,22.95,198
+199,The Treasure of the Sea: A Geronimo Stilton Adventure (Thea Stilton: Special Edition #5) ,199,6,14.16,199
+200,The Best Man ,200,10,2.25,200
+201,When the Sea Turned to Silver,201,19,30.59,201

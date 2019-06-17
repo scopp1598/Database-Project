@@ -1,0 +1,20 @@
+EmployeeID,FirstName,LastName,DOB,Street,State,City,ZipCode,ReportsTo,PayRate per hour
+1,fernando,stephens,1944-01-03,68 broad st,massachusetts,Shelburne Falls,01370,Victoria Tate,39
+2,raquel,hunt,1935-03-07,90 locust st,massachusetts,Boston,02212,Victoria Tate,29
+3,elisa,weber,1948-04-18,2101 cottage street,massachusetts,Baldwinville,01436,Victoria Tate,28.96
+4,angel,james,1958-09-20,34 Beechwood Drive,massachusetts,Babson Park,02457,Victoria Tate,32.9
+5,acora,gray,1974-05-12,219 Hill Street,massachusetts,Devens,01434,Victoria Tate,21.67
+6,victoria,tate,1968-01-19,32 major hale drive,massachusetts,Ayer,01432,Victoria Tate,45.68
+7,francis,hernandez,1995-08-25,2190 Pheasant Run,massachusetts,Avon,02322,Victoria Tate,26.84
+8,alejandro,osborne,1939-01-13,80 Pilgrim St. ,massachusetts,Auburndale,02466,Victoria Tate,21.98
+9,kay,reid,1988-06-13,61 Grove Ave. ,massachusetts,Auburn,01501,Victoria Tate,23.75
+10,randall,sullivan,1990-08-30,60 S. Garfield Ave. ,massachusetts,Attleboro Falls,02763,Victoria Tate,22.35
+11,louise,howard,1943-12-16,9493 W. Joy Ridge St. ,massachusetts,Attleboro,02703,Victoria Tate,24
+12,debra,bennett,1990-01-28,7189 Linda St. ,massachusetts,Athol,01331,Victoria Tate,29.61
+13,juan,bailey,1996-05-13,8577 Ryan Ave. ,massachusetts,Duxbury,02702,Victoria Tate,25.55
+14,william,kelly,1977-01-14,8616 Beach Ave. ,massachusetts,Hanover,02339,Victoria Tate,26.49
+15,rose,moore,1951-06-05,424 Euclid Circle ,massachusetts,Ashley Falls,01222,Victoria Tate,20.45
+16,alan,thomas,1960-04-11,7016 Chapel Road ,massachusetts,Ashland,01721,Victoria Tate,20.63
+17,ashley,russell,1961-11-29,9751 Poplar Street ,massachusetts,Ashfield,01330,Victoria Tate,27.8
+18,roger,king,1966-03-22,8174 West Homestead Avenue ,massachusetts,Ashby,01431,Victoria Tate,26.58
+19,pamela,washington,1988-12-17,9947 Park Rd. ,massachusetts,Ashburnham,01430,Victoria Tate,38.51
